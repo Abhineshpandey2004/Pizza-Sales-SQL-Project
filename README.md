@@ -1,1 +1,2 @@
 # Pizza-Sales-SQL-Project
+Overall, pizza sales are performing well with stable order volume and strong revenue growth. Customer preference is clearly inclined toward specific pizza sizes and popular types. Peak-hour demand indicates opportunities for time-based offers and better staff planning. High-revenue pizza categories should be the main focus for promotions. With proper inventory control and targeted marketing, sales performance can improve even further.
